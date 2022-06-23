@@ -1,28 +1,28 @@
 [
 	{
-		id: 1,
-		NroDocumento: '12345678',
-		Celular: '987654321',
-		Nombre: 'Luis',
-		Correo: 'luis@test1.com',				
-    Placa: 'C2U-114',
-		Marca: 'Wolkswagen',
-		Modelo: 'Golf',
-		Año: '2019',
-		Monto: '',
-		SumaAsegurada: ''
+		"id": 1,
+		"NroDocumento": "12345678",
+		"Celular": "987654321",
+		"Nombre": "Luis",
+		"Correo": "luis@test1.com",				
+    		"Placa": "C2U-114",
+		"Marca": "Wolkswagen",
+		"Modelo": "Golf",
+		"Año": "2019",
+		"Monto": "",
+		"SumaAsegurada": ""
 	},
 	{
-		id: 2,
-		NroDocumento: '222222222',
-		Celular: '987654321',
-		Nombre: 'Jonathan',
-		Correo: 'jonathan@test2.com',				
-    Placa: 'M1F-222',
-		Marca: 'Ford',
-		Modelo: 'EcoSport',
-		Año: '2020',
-		Monto: '',
-		SumaAsegurada: ''
+		"id": 2,
+		"NroDocumento": "222222222",
+		"Celular": "987654321",
+		"Nombre": "Jonathan",
+		"Correo": "jonathan@test2.com",				
+    		"Placa": "M1F-222",
+		"Marca": "Ford",
+		"Modelo": "EcoSport",
+		"Año": "2020",
+		"Monto": "",
+		"SumaAsegurada": ""
 	}
 ]
